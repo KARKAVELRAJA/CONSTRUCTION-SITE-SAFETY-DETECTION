@@ -19,6 +19,6 @@
 
 ### FILES
 
-- Sample_Image.jpg                 - Sample Prediction Image
-- Sample_Video.mp4                 - Sample Prediction Video
-- YOLO-based Architecture for Construction Site Safety Detection.ipynb - Jupyter Notebook (Python Code) for Construction Site Safety Detection
+- li-lin-rZcC9J5ZT6I-unsplash_jpg.rf.77e6368bd6381ff5a119b1a4a09af9a3.jpg - Sample Prediction Image
+- hardhat.mp4                                                             - Sample Prediction Video
+- YOLO-based Architecture for Construction Site Safety Detection.ipynb    - Jupyter Notebook (Python Code) for Construction Site Safety Detection
