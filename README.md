@@ -8,7 +8,7 @@
 
 - Description about Dataset
 - Importing Necessary modules
-- Performing Configuration
+- Performing Configurations
 - Exploratory Data Analysis
 - Training the Model
 - Visualizing the Results
